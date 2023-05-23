@@ -6,7 +6,7 @@ You can also view the reports in our [blog](https://blog.coinfabrik.com/smart-co
 | [ALEX](https://github.com/CoinFabrik/Audits/tree/proposal/ALEX)   | [Bridge](https://github.com/CoinFabrik/Audits/blob/proposal/ALEX/2023-04%20Bridge.pdf) | Clarity/Solidity/Typescript | 04/2023 |
 | [1inch](https://github.com/CoinFabrik/Audits/tree/proposal/1inch)   | [Farming](https://github.com/CoinFabrik/Audits/blob/proposal/1inch/2022-12%20Farming.pdf) | Solidity | 12/2022 |
 | [ALEX](https://github.com/CoinFabrik/Audits/tree/proposal/ALEX)   | [Bridge Endpoints](https://github.com/CoinFabrik/Audits/blob/proposal/ALEX/2022-12%20Bridge%20Endpoints.pdf) | Clarity/Solidity | 12/2022 |
-| Kanna | [KannaCoin](https://github.com/CoinFabrik/Audits/blob/proposal/2021-11%20KannaCoin.pdf)               | Solidity | 11/2022 |
+| Kanna | [KannaCoin](https://github.com/CoinFabrik/Audits/blob/proposal/2022-11%20KannaCoin.pdf)               | Solidity | 11/2022 |
 | [YieldYak](https://github.com/CoinFabrik/Audits/tree/proposal/YieldYak)   | [YieldYak](https://github.com/CoinFabrik/Audits/blob/proposal/YieldYak/2022-11%20YieldYak.pdf) | Solidity | 11/2022 |
 | PulseInu   | [PulseInu](https://github.com/CoinFabrik/Audits/blob/proposal/2022-11%20PoorPleb.pdf) | Solidity | 11/2022 |
 | [ALEX](https://github.com/CoinFabrik/Audits/tree/proposal/ALEX)   | [Order Book](https://github.com/CoinFabrik/Audits/blob/proposal/ALEX/2022-10%20Order%20Book.pdf) | Clarity | 10/2022 |
