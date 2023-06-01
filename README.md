@@ -1,8 +1,53 @@
 # Audits
-Audit Reports
+You can also view the reports in our [blog](https://blog.coinfabrik.com/smart-contracts-audits/).
 
+| Company | Audit Report    | Language | Date      | 
+| ------------------------------------------------------------------- | --------------- | -------- | --------- | 
+| [ALEX](https://github.com/CoinFabrik/Audits/tree/main/ALEX)   | [Bridge](https://github.com/CoinFabrik/Audits/blob/proposal/ALEX/2023-04%20Bridge.pdf) | Clarity/Solidity/Typescript | 04/2023 |
+| [1inch](https://github.com/CoinFabrik/Audits/tree/main/1inch)   | [Farming](https://github.com/CoinFabrik/Audits/blob/proposal/1inch/2022-12%20Farming.pdf) | Solidity | 12/2022 |
+| [ALEX](https://github.com/CoinFabrik/Audits/tree/main/ALEX)   | [Bridge Endpoints](https://github.com/CoinFabrik/Audits/blob/proposal/ALEX/2022-12%20Bridge%20Endpoints.pdf) | Clarity/Solidity | 12/2022 |
+| [KannaCoin](https://github.com/CoinFabrik/Audits/blob/main/KannaCoin) | [KannaCoin](https://github.com/CoinFabrik/Audits/blob/proposal/KannaCoin/2022-11%20KannaCoin.pdf)               | Solidity | 11/2022 |
+| [YieldYak](https://github.com/CoinFabrik/Audits/tree/main/YieldYak)   | [YieldYak](https://github.com/CoinFabrik/Audits/blob/proposal/YieldYak/2022-11%20YieldYak.pdf) | Solidity | 11/2022 |
+| [PulseInu](https://github.com/CoinFabrik/Audits/blob/main/PulseInu) | [PulseInu](https://github.com/CoinFabrik/Audits/blob/proposal/2022-11%20PulseInu.pdf) | Solidity | 11/2022 |
+| [ALEX](https://github.com/CoinFabrik/Audits/tree/main/ALEX)   | [Order Book](https://github.com/CoinFabrik/Audits/blob/proposal/ALEX/2022-10%20Order%20Book.pdf) | Clarity | 10/2022 |
+| [PoorPleb](https://github.com/CoinFabrik/Audits/blob/main/PoorPleb) | [PoorPleb](https://github.com/CoinFabrik/Audits/blob/proposal/PoorPleb/2022-10%20PoorPleb.pdf) | Solidity | 10/2022 |
+| [1inch](https://github.com/CoinFabrik/Audits/tree/main/1inch)   | [Aggregator V5, LimitOrder Protocol, Utils](https://github.com/CoinFabrik/Audits/blob/proposal/1inch/2022-09%20Aggregator%20V5%2C%20LimitOrder%20Protocol%2C%20Utils.pdf) | Solidity | 09/2022 |
+| [KnownOrigin](https://github.com/CoinFabrik/Audits/tree/main/KnownOrigin)   | [ContractsV4](https://github.com/CoinFabrik/Audits/blob/proposal/KnownOrigin/2022-09%20ContractsV4.pdf) | Solidity | 09/2022 |
+| [Zest Protocol](https://github.com/CoinFabrik/Audits/blob/main/Zest%20Protocol) | [Zest Protocol](https://github.com/CoinFabrik/Audits/blob/proposal/Zest%20Protocol/2022-08%20Zest%20Protocol.pdf) | Clarity | 08/2022 |
+| [Geode Finance](https://github.com/CoinFabrik/Audits/blob/main/Geode%20Finance) | [Geode Finance](https://github.com/CoinFabrik/Audits/blob/proposal/Geode%20Finance/2022-08%20Geode%20Finance.pdf) | Solidity | 08/2022 |
+| [BankX](https://github.com/CoinFabrik/Audits/blob/main/BankX) | [BankX](https://github.com/CoinFabrik/Audits/blob/proposal/BankX/2022-08%20BankX.pdf) | Solidity | 08/2022 |
+| [ALEX](https://github.com/CoinFabrik/Audits/tree/main/ALEX)   | [Stxdx-v1](https://github.com/CoinFabrik/Audits/blob/proposal/ALEX/2022-07%20Stxdx-v1.pdf) | Clarity | 07/2022 |
+| [Trust Machines MS](https://github.com/CoinFabrik/Audits/blob/main/Trust%20Machines%20MS) | [Trust Machines MS](https://github.com/CoinFabrik/Audits/blob/proposal/Trust%20Machines%20MS/2022-07%20Trust%20Machines%20MS.pdf) | Clarity | 07/2022 |
+| [1inch](https://github.com/CoinFabrik/Audits/tree/main/1inch)   | [Agreggation Router](https://github.com/CoinFabrik/Audits/blob/proposal/1inch/2022-06%20Agreggation%20Router%20V5.pdf) | Solidity | 06/2022 |
+| [YieldYak](https://github.com/CoinFabrik/Audits/tree/main/YieldYak)   | [ERC 4626](https://github.com/CoinFabrik/Audits/blob/proposal/YieldYak/2022-06%20ERC%204626.pdf) | Solidity | 06/2022 |
+| [CityCoins](https://github.com/CoinFabrik/Audits/blob/main/CityCoins) | [CityCoins](https://github.com/CoinFabrik/Audits/blob/proposal/CityCoins/2022-05%20CityCoins.pdf) | Clarity | 05/2022 |
+| [ALEX](https://github.com/CoinFabrik/Audits/tree/main/ALEX)   | [Launchpad, Yield Vault, Collateral Rebalancing Pool](https://github.com/CoinFabrik/Audits/blob/proposal/ALEX/2022-04%20Launchpad%2C%20Yield%20Vault%2C%20Collateral%20Rebalancing%20Pool.pdf) | Clarity | 04/2022 |
+| [KnownOrigin](https://github.com/CoinFabrik/Audits/tree/main/KnownOrigin)   | [MintingFactoryV2, BaseUpgradeableMarketplace and KODAV3UpgradeableGatedMarketplace](https://github.com/CoinFabrik/Audits/blob/proposal/KnownOrigin/2022-04%20MintingFactoryV2%2C%20BaseUpgradeableMarketplace%20and%20KODAV3UpgradeableGatedMarketplace.pdf) | Solidity | 04/2022 |
+| [Magic Bridge](https://github.com/CoinFabrik/Audits/blob/main/Magic%20Bridge) | [Magic Bridge](https://github.com/CoinFabrik/Audits/blob/proposal/Magic%20Bridge/2022-04%20Magic%20Bridge.pdf) | Clarity | 04/2022 |
+| [1inch](https://github.com/CoinFabrik/Audits/tree/main/1inch)   | [Money Market](https://github.com/CoinFabrik/Audits/blob/proposal/1inch/2022-03%20Money%20Market.pdf) | Solidity | 03/2022 |
+| [YieldYak](https://github.com/CoinFabrik/Audits/tree/main/YieldYak)   | [MasterChef Strategies](https://github.com/CoinFabrik/Audits/blob/proposal/YieldYak/2022-03%20MasterChef%20Strategies.pdf) | Solidity | 03/2022 |
+| [YieldYak](https://github.com/CoinFabrik/Audits/tree/main/YieldYak)   | [Platypus](https://github.com/CoinFabrik/Audits/blob/proposal/YieldYak/2022-02%20Platypus.pdf) | Solidity | 03/2022 |
+| [Mokens League](https://github.com/CoinFabrik/Audits/blob/main/Mokens%20League) | [Mokens League](https://github.com/CoinFabrik/Audits/blob/proposal/Mokens%20League/2022-03%20Mokens%20League.pdf) | Solidity | 03/2022 |
+| [DoubleDice](https://github.com/CoinFabrik/Audits/blob/main/DoubleDice) | [DoubleDice](https://github.com/CoinFabrik/Audits/blob/proposal/DoubleDice/2022-03%20DoubleDice.pdf) | Solidity | 03/2022 |
+| [ALEX](https://github.com/CoinFabrik/Audits/tree/main/ALEX)   | [ALEX DAO](https://github.com/CoinFabrik/Audits/blob/proposal/ALEX/2022-02%20ALEX%20DAO.pdf) | Clarity | 02/2022 |
+| [1inch](https://github.com/CoinFabrik/Audits/tree/main/1inch)   | [Farming](https://github.com/CoinFabrik/Audits/blob/proposal/1inch/2022-01%20Farming.pdf) | Solidity | 01/2022 |
+| [YieldYak](https://github.com/CoinFabrik/Audits/tree/main/YieldYak)   | [YakStrategyManagerV1](https://github.com/CoinFabrik/Audits/blob/proposal/YieldYak/2022-01%20YakStrategyManagerV1.pdf) | Solidity | 01/2022 |
+| [YieldYak](https://github.com/CoinFabrik/Audits/tree/main/YieldYak)   | [YakRegistry, YakVault and YakStrategy](https://github.com/CoinFabrik/Audits/blob/proposal/YieldYak/2022-01%20YakRegistry%2C%20YakVault%20and%20YakStrategy.pdf) | Solidity | 01/2022 |
+| [ALEX](https://github.com/CoinFabrik/Audits/tree/main/ALEX)   | [Launchpad, Vault, Reserve Pool](https://github.com/CoinFabrik/Audits/blob/proposal/ALEX/2022-01%20Launchpad%2C%20Vault%2C%20Reserve%20Pool.pdf) | Clarity | 01/2022 |
+| [Avalaunch](https://github.com/CoinFabrik/Audits/tree/main/Avalaunch)   | [XAVA Protocol](https://github.com/CoinFabrik/Audits/blob/proposal/Avalaunch/2022-01%20XAVA%20Protocol.pdf) | Solidity | 01/2022 |
+| [1inch](https://github.com/CoinFabrik/Audits/tree/main/1inch)   | [Money Market](https://github.com/CoinFabrik/Audits/blob/proposal/1inch/2021-12%20Money%20Market.pdf) | Solidity | 12/2021 |
+| [YieldYak](https://github.com/CoinFabrik/Audits/tree/main/YieldYak)   | [AaveStrategyAvaxV1, DEXLibrary and dependencies](https://github.com/CoinFabrik/Audits/blob/proposal/YieldYak/2021-12%20AaveStrategyAvaxV1%2C%20DEXLibrary%20and%20dependencies.pdf) | Solidity | 12/2021 |
+| [1inch](https://github.com/CoinFabrik/Audits/tree/main/1inch)   | [FixedRateSwap](https://github.com/CoinFabrik/Audits/blob/proposal/1inch/2021-11%20FixedRateSwap.pdf) | Solidity | 11/2021 |
+| [EMDX](https://github.com/CoinFabrik/Audits/tree/main/EMDX)   | [Protocol](https://github.com/CoinFabrik/Audits/blob/proposal/EMDX/2021-11%20Protocol.pdf) | Solidity | 11/2021 |
+| [EMDX](https://github.com/CoinFabrik/Audits/tree/main/EMDX)   | [Token](https://github.com/CoinFabrik/Audits/blob/proposal/EMDX/2021-11%20Token.pdf) | Solidity | 11/2021 |
+| [ALEX](https://github.com/CoinFabrik/Audits/tree/main/ALEX)   | [Alex-v1](https://github.com/CoinFabrik/Audits/blob/proposal/ALEX/2021-11%20Alex-v1.pdf) | Clarity | 11/2021 |
+| [YieldYak](https://github.com/CoinFabrik/Audits/tree/main/YieldYak)   | [YAK Token and DEX Strategies](https://github.com/CoinFabrik/Audits/blob/proposal/YieldYak/2021-11%20YAK%20Token%20and%20DEX%20Strategies.pdf) | Solidity | 11/2021 |
+| [Avalaunch](https://github.com/CoinFabrik/Audits/tree/main/Avalaunch)   | [AllocationStaking Cooldown Feature](https://github.com/CoinFabrik/Audits/blob/proposal/Avalaunch/2021-11%20AllocationStaking%20Cooldown%20Feature.pdf) | Solidity | 11/2021 |
 
+# Our services
+We are Coinfabrik. A **research**, **development**, and **security auditing** company specialized in **Web3 technologies and advisory**.
+Founded in **2014**, we have worked on **over 200 Web3 related projects** all over the world. Our customers range from startups to tech giants. We have been involved in research, development, security audits, and consulting for technologies such as Bitcoin, Ethereum, Polygon, Cosmos, Solana, Polkadot, Stacks, NEAR and Algorand among others.
+We are **technologically agnostic**, always **looking for the right solution** to better serve our customer`s needs.
 
-| Audit Report                   | Company                       | Language                                                                                                                                                                                    | Date      | 
-| ----------------------------- | ------------------------------ | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | 
-| [Alex Zero Project X](https://github.com/CoinFabrik/Audits/blob/main/Audits%20v%2001.pdf) | Alex                     | Solidity | 02/05/2022        |
+# Contact
+https://www.coinfabrik.com/#contact-us
