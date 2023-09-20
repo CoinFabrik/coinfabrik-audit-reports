@@ -3,7 +3,7 @@ You can also view the reports in our [blog](https://blog.coinfabrik.com/smart-co
 
 | Company | Audit Report    | Language | Date      | 
 | ------------------------------------------------------------------- | --------------- | -------- | --------- | 
-| [Allbridge](https://github.com/CoinFabrik/Audits/tree/main/Allbridge)   | [Allbridge](https://github.com/CoinFabrik/Audits/blob/main/Allbridge/AllBridge%20Audit%202023-06.pdf) | Clarity | 04/2023 |
+| [Allbridge](https://github.com/CoinFabrik/Audits/tree/main/Allbridge)   | [Allbridge](https://github.com/CoinFabrik/Audits/blob/main/Allbridge/AllBridge%20Audit%202023-06.pdf) | Clarity | 06/2023 |
 | [ALEX](https://github.com/CoinFabrik/Audits/tree/main/ALEX)   | [Bridge](https://github.com/CoinFabrik/Audits/blob/main/ALEX/2023-04%20Bridge.pdf) | Clarity/Solidity/Typescript | 04/2023 |
 | [1inch](https://github.com/CoinFabrik/Audits/tree/main/1inch)   | [Farming](https://github.com/CoinFabrik/Audits/blob/main/1inch/2022-12%20Farming.pdf) | Solidity | 12/2022 |
 | [ALEX](https://github.com/CoinFabrik/Audits/tree/main/ALEX)   | [Bridge Endpoints](https://github.com/CoinFabrik/Audits/blob/main/ALEX/2022-12%20Bridge%20Endpoints.pdf) | Clarity/Solidity | 12/2022 |
