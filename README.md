@@ -1,4 +1,9 @@
-# Audits
+# CoinFabrik Audit Reports
+
+<div align="center">
+  <img height="150" src="../coinfabrik-logo.png"  />
+</div>
+
 You can also view the reports in our [Audit Report's Webpage](https://www.coinfabrik.com/smart-contract-audit-reports/).
 
 | Company | Audit Report    | Language | Date      | 
