@@ -1,5 +1,5 @@
 # Audits
-You can also view the reports in our [blog](https://blog.coinfabrik.com/smart-contracts-audits/).
+You can also view the reports in our [Audit Report's Webpage](https://www.coinfabrik.com/smart-contract-audit-reports/).
 
 | Company | Audit Report    | Language | Date      | 
 | ------------------------------------------------------------------- | --------------- | -------- | --------- | 
