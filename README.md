@@ -8,6 +8,7 @@ You can also view the reports in our [Audit Report's Webpage](https://www.coinfa
 
 | Company | Audit Report    | Language | Date      |
 | --------------------------------------------------------------------- | --------------- | -------- | --------- |
+| [Stacking Dao](https://github.com/CoinFabrik/Audits/tree/main/StackingDao)   | [Stacking Dao](https://github.com/CoinFabrik/Audits/blob/main/StackingDao/StakingDao-Strategy-v3-Audit-v2) | 
 | [Excellar](https://github.com/CoinFabrik/Audits/tree/main/Excellar)   | [Excellar](https://github.com/CoinFabrik/Audits/blob/main/Excellar/04-2024-CoinFabrik-Excellar-Audit-Report.pdf) | Solidity | 04/2024 |
 | [Mokens League](https://github.com/CoinFabrik/Audits/tree/main/Mokens%League)   | [Mokens League](https://github.com/CoinFabrik/Audits/blob/main/Mokens%20League/04-16-2024-CoinFabrik-Mokens-League-Token-Audit.pdf) | Solidity | 04/2024 |
 | [Allbridge](https://github.com/CoinFabrik/Audits/tree/main/Allbridge)   | [Allbridge](https://github.com/CoinFabrik/Audits/blob/main/Allbridge/AllBridge%20Audit%202023-06.pdf) | Clarity | 06/2023 |
