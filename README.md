@@ -8,10 +8,11 @@ You can also view the reports in our [Audit Report's Webpage](https://www.coinfa
 
 | Company | Audit Report    | Language | Date      |
 | --------------------------------------------------------------------- | --------------- | -------- | --------- |
+| [HTP](https://github.com/CoinFabrik/Audits/tree/main/Excellar)   | [HTP Staking Project](https://github.com/CoinFabrik/Audits/blob/main/Excellar/04-2024-Coinfabrik-Htp-Stacking-Protocol-Audit.pdf) | Solidity | 04/2024 |
 | [Excellar](https://github.com/CoinFabrik/Audits/tree/main/Excellar)   | [Excellar](https://github.com/CoinFabrik/Audits/blob/main/Excellar/04-2024-CoinFabrik-Excellar-Audit-Report.pdf) | Solidity | 04/2024 |
-| [Mokens League](https://github.com/CoinFabrik/Audits/tree/main/Mokens%League)   | [Mokens League](https://github.com/CoinFabrik/Audits/blob/main/Mokens%20League/04-16-2024-CoinFabrik-Mokens-League-Token-Audit.pdf) | Solidity | 04/2024 |
+| [Mokens League](https://github.com/CoinFabrik/Audits/tree/main/Mokens%League)   | [Token Audit](https://github.com/CoinFabrik/Audits/blob/main/Mokens%20League/04-16-2024-CoinFabrik-Mokens-League-Token-Audit.pdf) | Solidity | 04/2024 |
 | [Allbridge](https://github.com/CoinFabrik/Audits/tree/main/Allbridge)   | [Allbridge](https://github.com/CoinFabrik/Audits/blob/main/Allbridge/AllBridge%20Audit%202023-06.pdf) | Clarity | 06/2023 |
-| [ALEX](https://github.com/CoinFabrik/Audits/tree/main/ALEX)   | [Bridge](https://github.com/CoinFabrik/Audits/blob/main/ALEX/2023-04%20Bridge.pdf) | Clarity/Solidity/Typescript | 04/2023 |
+| [ALEX](https://github.com/CoinFabrik/Audits/tree/main/ALEX)   | [Bridge Audit](https://github.com/CoinFabrik/Audits/blob/main/ALEX/2023-04%20Bridge.pdf) | Clarity/Solidity/Typescript | 04/2023 |
 | [1inch](https://github.com/CoinFabrik/Audits/tree/main/1inch)   | [Farming](https://github.com/CoinFabrik/Audits/blob/main/1inch/2022-12%20Farming.pdf) | Solidity | 12/2022 |
 | [ALEX](https://github.com/CoinFabrik/Audits/tree/main/ALEX)   | [Bridge Endpoints](https://github.com/CoinFabrik/Audits/blob/main/ALEX/2022-12%20Bridge%20Endpoints.pdf) | Clarity/Solidity | 12/2022 |
 | [KannaCoin](https://github.com/CoinFabrik/Audits/blob/main/KannaCoin) | [KannaCoin](https://github.com/CoinFabrik/Audits/blob/main/KannaCoin/2022-11%20KannaCoin.pdf)               | Solidity | 11/2022 |
