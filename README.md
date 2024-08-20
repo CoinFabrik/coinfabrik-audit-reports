@@ -8,6 +8,7 @@ You can also view the reports in our [Audit Report's Webpage](https://www.coinfa
 
 | Company | Audit Report    | Language | Date      |
 | --------------------------------------------------------------------- | --------------- | -------- | --------- |
+| [Aquarius](https://github.com/CoinFabrik/Audits/tree/main/Aquarius)   | [Aquarius AMM](https://github.com/CoinFabrik/coinfabrik-audit-reports/blob/main/Aquarius/CoinFabrik-Aquarius_AMM_Audit-March_2024.pdf) | Soroban | 03/2024 |
 | [Mantis](https://github.com/CoinFabrik/Audits/tree/main/Smithii)   | [Smithii Mantis Protocol](https://github.com/CoinFabrik/coinfabrik-audit-reports/blob/main/Mantis/06-2024-coinfabrik-smithii_mantis_protocol_audit.pdf) | Rust | 06/2024 |
 | [HTP](https://github.com/CoinFabrik/Audits/tree/main/HTP)   | [HTP Staking Project](https://github.com/CoinFabrik/Audits/blob/main/HTP/04-2024-Coinfabrik-Htp-Stacking-Protocol-Audit.pdf) | Solidity | 04/2024 |
 | [Stacking Dao](https://github.com/CoinFabrik/Audits/tree/main/StackingDao)   | [Stacking Dao](https://github.com/CoinFabrik/Audits/blob/main/StackingDao/StakingDao-Strategy-v3-Audit-v2.pdf) | Clarity | 05/2024 |
