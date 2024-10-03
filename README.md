@@ -18,6 +18,7 @@ You can also view the reports in our [Audit Report's Webpage](https://www.coinfa
 | [Mokens League](https://github.com/CoinFabrik/Audits/tree/main/Mokens%League)   | [Token Audit](https://github.com/CoinFabrik/Audits/blob/main/Mokens%20League/04-16-2024-CoinFabrik-Mokens-League-Token-Audit.pdf) | Solidity | 04/2024 |
 | [Aquarius](https://github.com/CoinFabrik/Audits/tree/main/Aquarius)   | [Aquarius AMM](https://github.com/CoinFabrik/coinfabrik-audit-reports/blob/main/Aquarius/CoinFabrik-Aquarius_AMM_Audit-March_2024.pdf) | Soroban | 03/2024 |
 | [THORChain](https://github.com/CoinFabrik/Audits/tree/main/THORChain)   | [THORChain Project](https://github.com/CoinFabrik/Audits/blob/main/THORChain/CoinFabrik-THORChain_Audit-2024-01.pdf) | Solidity | 01/2024 |
+| [Aconcagua](https://github.com/CoinFabrik/Audits/tree/main/Aconcagua)   | [Aconcagua](https://github.com/CoinFabrik/Audits/blob/main/Aconcagua/CoinFabrik-Aconcagua_Audit-2024-01.pdf) | Solidity | 01/2024 |
 | [Allbridge](https://github.com/CoinFabrik/Audits/tree/main/Allbridge)   | [Allbridge](https://github.com/CoinFabrik/Audits/blob/main/Allbridge/AllBridge%20Audit%202023-06.pdf) | Clarity | 06/2023 |
 | [ALEX](https://github.com/CoinFabrik/Audits/tree/main/ALEX)   | [Bridge Audit](https://github.com/CoinFabrik/Audits/blob/main/ALEX/2023-04%20Bridge.pdf) | Clarity/Solidity/Typescript | 04/2023 |
 | [1inch](https://github.com/CoinFabrik/Audits/tree/main/1inch)   | [Farming](https://github.com/CoinFabrik/Audits/blob/main/1inch/2022-12%20Farming.pdf) | Solidity | 12/2022 |
