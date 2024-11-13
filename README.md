@@ -8,6 +8,7 @@ You can also view the reports in our [Audit Report's Webpage](https://www.coinfa
 
 | Company | Audit Report    | Language | Date      |
 | --------------------------------------------------------------------- | --------------- | -------- | --------- |
+| [Crucible](https://github.com/CoinFabrik/Audits/tree/main/Crucible)   | [Crucible](https://github.com/CoinFabrik/coinfabrik-audit-reports/blob/main/Crucible/CoinFabrik-Crucible_Audit-2024-09.pdf) | Solidity | 10/2024 |
 | [MemeGoat](https://github.com/CoinFabrik/Audits/tree/main/MemeGoat)   | [MemeGoat](https://github.com/CoinFabrik/coinfabrik-audit-reports/blob/main/MemeGoat/CoinFabrik-MemeGoat_Audit-2024-09.pdf) | Clarity | 09/2024 |
 | [BondHive](https://github.com/CoinFabrik/Audits/tree/main/BondHive)   | [BondHive](https://github.com/CoinFabrik/coinfabrik-audit-reports/blob/main/BondHive/CoinFabrik-BondHive_Audit-2024-09.pdf) | Soroban | 09/2024 |
 | [Laos](https://github.com/CoinFabrik/Audits/tree/main/Laos)   | [Laos](https://github.com/CoinFabrik/coinfabrik-audit-reports/blob/main/Laos/CoinFabrik-LAOS_Audit-2024-08.pdf) | Substrate | 08/2024 |
