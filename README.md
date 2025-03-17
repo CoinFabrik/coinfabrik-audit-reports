@@ -8,6 +8,7 @@ You can also view the reports in our [Audit Report's Webpage](https://www.coinfa
 
 | Company | Audit Report    | Language | Date      |
 | --------------------------------------------------------------------- | --------------- | -------- | --------- |
+| [STONE](https://github.com/CoinFabrik/Audits/tree/main/$STONE)   | [$STONE Token](https://github.com/CoinFabrik/coinfabrik-audit-reports/blob/main/$STONE/Coinfabrik-Stone-Audit-2025-03.pdf) | Clarity | 03/2025 |
 | [ALEX](https://github.com/CoinFabrik/Audits/tree/main/Alex)   | [ALEX Farming Campaign](https://github.com/CoinFabrik/coinfabrik-audit-reports/blob/main/ALEX/CoinFabirk-Alex-Farming-Campaign-Audit-01-2025.pdf) | Clarity | 01/2025 |
 | [Xlink](https://github.com/CoinFabrik/Audits/tree/main/Xlink)   | [Xlink](https://github.com/CoinFabrik/coinfabrik-audit-reports/blob/main/Xlink/CoinFabrik-Xlink_Audit-2024-11.pdf) | Clarity | 11/2024 |
 | [Crucible](https://github.com/CoinFabrik/Audits/tree/main/Crucible)   | [Crucible](https://github.com/CoinFabrik/coinfabrik-audit-reports/blob/main/Crucible/CoinFabrik-Crucible_Audit-2024-09.pdf) | Solidity | 10/2024 |
