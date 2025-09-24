@@ -8,6 +8,7 @@ You can also view the reports in our [Audit Report's Webpage](https://www.coinfa
 
 | Company | Audit Report    | Language | Date      |
 | --------------------------------------------------------------------- | --------------- | -------- | --------- |
+| [AIBTC](https://github.com/CoinFabrik/Audits/tree/main/AIBTC) | [DAO Smart Contracts](https://github.com/CoinFabrik/coinfabrik-audit-reports/blob/main/AIBTC/AIBTC%20DAO%20Audit%202025-06.pdf) | Clarity | 06/2025 |
 | [Stacks](https://github.com/CoinFabrik/Audits/tree/main/Stacks)   | [LibSigner's Smart Contracts](https://github.com/CoinFabrik/coinfabrik-audit-reports/blob/main/Stacks/CoinFabrik-Stacks_LibSigner_Audit-2025_04.pdf) - [LibSigner Audit Summary](https://www.coinfabrik.com/blog/stacks-libsigner-audit-report/) | Rust | 04/2025 |
 | [Stacks](https://github.com/CoinFabrik/Audits/tree/main/Stacks)   | [Signer's Smart Contracts](https://github.com/CoinFabrik/coinfabrik-audit-reports/blob/main/Stacks/CoinFabrik-Stacks_Signer_Audit-2025_04.pdf) - [Signer Audit Summary](https://www.coinfabrik.com/blog/stacks-signer-audit-report/) | Rust | 04/2025 |
 | [STONE](https://github.com/CoinFabrik/Audits/tree/main/$STONE)   | [STONE's Smart Contracts](https://github.com/CoinFabrik/coinfabrik-audit-reports/blob/main/$STONE/Coinfabrik-Stone-Audit-2025-03.pdf) - [STONE Audit Summary](https://www.coinfabrik.com/blog/stone-audit-report/) | Clarity | 03/2025 |
